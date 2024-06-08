@@ -1,0 +1,38 @@
+{
+  "name": "Shaurav Das",
+  "address": "Bangladesh",
+  "bio": "I'm keyboardist based in Dhaka, Bangladesh and I'm very passionate and dedicated to my work.",
+  "mainSkill": "Musician",
+  "img": "/img/slider/avatar.png",
+  "skills": [
+    {
+      "name": "illustrator",
+      "icon": "/img/svg/3.svg",
+      "color": "rgb(247, 80, 35)",
+      "value": 85
+    },
+    {
+      "name": "photoshop ",
+      "icon": "/img/svg/2.png",
+      "color": "rgb(28, 190, 89)",
+      "value": 95
+    },
+    {
+      "name": "figma ",
+      "icon": "/img/svg/1.png",
+      "color": "rgb(128, 103, 240)",
+      "value": 75
+    }
+  ],
+  "social": [
+    { "name": "facebook", "icon": "icon-facebook-1", "url": "https://www.facebook.com/shaurav.das" },
+    { "name": "instagram", "icon": "icon-instagram-1", "url": "https://www.instagram.com/shaurav_das" },
+    { "name": "linkedin", "icon": "icon-linkedin-1", "url": "https://www.linkedin.com/in/shaurav-das-5b1805243/" },
+    { "name": "youtube", "icon": "icon-youtube-2", "url": "https://www.youtube.com/@shauravdas2175" }
+  ],
+  "contact": {
+    "address": "Dhaka. Bangladesh",
+    "email": "hello@shauravdas.com",
+    "phn": "+880 1712-984115"
+  }
+}
